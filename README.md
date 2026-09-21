@@ -25,7 +25,7 @@ Electronics & Communication Engineering Student • Aspiring Data Scientist & Da
 * 🕷️ Building a **Python Web Scraping Project** using BeautifulSoup and Pandas
 * 📚 Improving my knowledge of **Statistics and Data Analysis**
 * 📫 Reach me at **[siddharthmeshram08@gmail.com](mailto:siddharthmeshram08@gmail.com)**
-* ⚡ Fun fact: **I think I'm funny 😄**
+  
 
 ---
 
