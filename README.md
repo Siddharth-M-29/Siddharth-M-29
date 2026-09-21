@@ -41,7 +41,6 @@ Electronics & Communication Engineering Student • Aspiring Data Scientist & Da
 
 ---
 
-### 🛠️ Languages and Tools
 
 ### 🛠️ Languages and Tools
 
